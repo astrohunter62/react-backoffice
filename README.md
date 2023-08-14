@@ -8,8 +8,6 @@ Backoffice also uses `react-router-dom`, `@material-ui/icons`, `material-ui-pick
 
 [![Build Status](https://travis-ci.org/drublic/backoffice.svg?branch=master)](https://travis-ci.org/drublic/backoffice)
 [![codecov](https://codecov.io/gh/drublic/backoffice/branch/master/graph/badge.svg)](https://codecov.io/gh/drublic/backoffice)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdrublic%2Fbackoffice.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdrublic%2Fbackoffice?ref=badge_shield)
-
 ## Purpose
 
 The purpose of Backoffice is to provide an easier to use framework to generate applications that are mainly designed for working with data. For example for CRUD-APIs.
@@ -450,4 +448,3 @@ const tabs = () => (
 
 This framework is licensed under [MIT](./LICENSE)
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdrublic%2Fbackoffice.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdrublic%2Fbackoffice?ref=badge_large)
